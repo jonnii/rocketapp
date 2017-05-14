@@ -8,7 +8,7 @@ phases:
     commands:
       - echo Build started on `date`
       - echo Building the Docker image...          
-      - docker build -t $IMAGE_REPO_NAME .
+      - docker build -t rocketapp .
   post_build:
     commands:
       - echo Build completed on `date`
