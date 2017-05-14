@@ -1,0 +1,6 @@
+[package]
+name = "rocketapp"
+version = "0.1.0"
+authors = ["Jonathan Goldman <me@jonnii.com>"]
+
+[dependencies]
